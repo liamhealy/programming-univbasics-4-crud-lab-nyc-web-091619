@@ -28,7 +28,7 @@ end
 
 def retrieve_first_element_from_array(array)
   
-end
+endarray[0]
 
 def retrieve_last_element_from_array(array)
   
